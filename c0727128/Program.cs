@@ -17,6 +17,7 @@ namespace c0727128
     
 
     class Village
+
     {
         Village PreviousNode;
         Village NextNode;
@@ -24,4 +25,6 @@ namespace c0727128
         bool isAstrildeHere = false;
         public Village() { }
     }
+    
+
 }
